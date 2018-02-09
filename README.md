@@ -13,3 +13,5 @@ $ yarn add mobx mobx-react mobx-state-tree
 ## 2. Attach Behavior to mobx-state-tree Models Using Actions
 
 ## 3. Test mobx-state-tree Models by Recording Snapshots or Patches
+
+## 4. Derive Information from Models Using Views
